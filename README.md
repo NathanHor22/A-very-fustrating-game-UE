@@ -33,7 +33,9 @@ A simple **2D/3D platformer game** built in **Unreal Engine**, featuring a funct
 ---
 
 ## 🎥 Demo Video
-👉 [**Watch the Gameplay Demo**](#)  
-*https://youtu.be/t1Jb0kjQIwA*
+
+[![Watch the Gameplay Demo](https://img.youtube.com/vi/t1Jb0kjQIwA/0.jpg)](https://youtu.be/t1Jb0kjQIwA)
+
+*(Click the image above to watch the gameplay demo on YouTube.)*
 
 ---
