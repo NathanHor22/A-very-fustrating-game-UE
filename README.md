@@ -1,7 +1,7 @@
 # 🕹️ Basic Platformer Game (Unreal Engine)
 [![Watch the Gameplay Demo](https://img.youtube.com/vi/t1Jb0kjQIwA/0.jpg)](https://youtu.be/t1Jb0kjQIwA)
 
-A simple **2D/3D platformer game** built in **Unreal Engine**, featuring a functional **start screen**, **pause menu**, **win screen**, and **interactive moving platforms**. This project demonstrates fundamental gameplay mechanics, UI systems, and level design logic in Unreal Engine.
+A simple **3D platformer game** built in **Unreal Engine**, featuring a functional **start screen**, **pause menu**, **win screen**, and **interactive moving platforms**. This project demonstrates fundamental gameplay mechanics, UI systems, and level design logic in Unreal Engine.
 
 ---
 
